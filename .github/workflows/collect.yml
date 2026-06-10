@@ -1,0 +1,41 @@
+# RSS定時収集ワークフロー（毎朝 7:00 JST = 22:00 UTC）
+name: RSS収集
+
+on:
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: チェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.jsセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: 依存関係インストール
+        run: npm ci
+
+      - name: RSS収集
+        run: npm run collect
+
+      - name: data.jsonに差分があればコミット&プッシュ
+        run: |
+          if git diff --quiet public/data.json; then
+            echo "差分なしのためコミットしません"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/data.json
+            git commit -m "データ更新: $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
