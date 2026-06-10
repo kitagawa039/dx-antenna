@@ -3,12 +3,17 @@ import type { CollectedData } from "./types";
 import Header from "./components/Header";
 import Toolbar, { type TabKey } from "./components/Toolbar";
 import Card from "./components/Card";
+import Summary from "./components/Summary";
+
+/** 初期表示する件数（「もっと見る」で追加表示） */
+const PAGE_SIZE = 20;
 
 export default function App() {
   const [data, setData] = useState<CollectedData | null>(null);
   const [loading, setLoading] = useState(true);
   const [tab, setTab] = useState<TabKey>("all");
   const [q, setQ] = useState("");
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   // data.json を読み込む（キャッシュ回避にタイムスタンプを付与）
   useEffect(() => {
@@ -21,6 +26,11 @@ export default function App() {
       .catch(() => setData(null)) // 取得失敗時もエラー画面にせず空状態を表示
       .finally(() => setLoading(false));
   }, []);
+
+  // タブ・検索を変えたら表示件数をリセットする
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE);
+  }, [tab, q]);
 
   // 表示順は publishedAt 降順
   const items = useMemo(() => {
@@ -41,7 +51,11 @@ export default function App() {
     });
   }, [items, tab, q]);
 
+  const visible = filtered.slice(0, visibleCount);
+  const remaining = filtered.length - visible.length;
   const newCount = items.filter((i) => i.isNew).length;
+  // サマリーは絞り込みしていない初期表示のときだけ出す
+  const showSummary = tab === "all" && q.trim() === "";
 
   return (
     <div className="min-h-screen bg-[#F4F6F8]">
@@ -68,11 +82,24 @@ export default function App() {
             </p>
           </div>
         ) : (
-          <div className="grid gap-3 sm:grid-cols-2">
-            {filtered.map((it) => (
-              <Card key={it.id} item={it} />
-            ))}
-          </div>
+          <>
+            {showSummary && <Summary items={items} onKeywordClick={setQ} />}
+            <div className="grid gap-3 sm:grid-cols-2">
+              {visible.map((it) => (
+                <Card key={it.id} item={it} />
+              ))}
+            </div>
+            {remaining > 0 && (
+              <div className="text-center mt-6">
+                <button
+                  onClick={() => setVisibleCount((c) => c + PAGE_SIZE * 2)}
+                  className="px-6 py-2 text-[13px] font-medium rounded-md border border-[#D5DAE1] bg-white text-[#5A6472] hover:bg-[#EAF1F8] hover:text-[#0068B7] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[#0068B7]"
+                >
+                  もっと見る（残り {remaining} 件）
+                </button>
+              </div>
+            )}
+          </>
         )}
       </main>
 
