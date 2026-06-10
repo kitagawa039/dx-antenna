@@ -1,9 +1,19 @@
 import type { FeedItem, ItemType } from "../types";
 
 // カテゴリ定義（左端の縦色帯+漢字一文字がこのサイトの顔）
-const CAT: Record<ItemType, { mark: string; label: string; bar: string; chip: string }> = {
-  news: { mark: "報", label: "ニュース", bar: "#0068B7", chip: "bg-[#EAF1F8] text-[#0068B7]" },
-  event: { mark: "催", label: "イベント", bar: "#5A6B78", chip: "bg-[#EEF1F3] text-[#46535D]" },
+const CAT: Record<ItemType, { mark: string; label: string; band: string; chip: string }> = {
+  news: {
+    mark: "報",
+    label: "ニュース",
+    band: "linear-gradient(180deg, #0068B7 0%, #00A0E9 130%)",
+    chip: "bg-[#EAF1F8] text-[#0068B7]",
+  },
+  event: {
+    mark: "催",
+    label: "イベント",
+    band: "linear-gradient(180deg, #5A6B78 0%, #46535D 130%)",
+    chip: "bg-[#EEF1F3] text-[#46535D]",
+  },
 };
 
 /** ISO日時を MM/DD 表示にする */
@@ -19,12 +29,12 @@ export default function Card({ item }: { item: FeedItem }) {
       href={item.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="group relative flex bg-white rounded-md overflow-hidden border border-[#E3E6EB] hover:border-[#0068B7] hover:shadow-[0_4px_16px_rgba(31,78,121,0.10)] transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#0068B7]"
+      className="group relative flex bg-white rounded-xl overflow-hidden border border-[#E8ECF0] shadow-[0_1px_2px_rgba(16,42,67,0.05)] hover:border-[#0068B7]/30 hover:shadow-[0_12px_28px_rgba(0,53,93,0.13)] hover:-translate-y-0.5 transition-all duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#0068B7]"
     >
       {/* 左端:カテゴリマーク(縦の色帯+漢字一文字) */}
       <div
-        className="flex flex-col items-center justify-start pt-3 w-9 shrink-0"
-        style={{ backgroundColor: cat.bar }}
+        className="flex flex-col items-center justify-start pt-3.5 w-9 shrink-0"
+        style={{ background: cat.band }}
       >
         <span
           className="text-white text-sm font-bold select-none"
@@ -36,14 +46,19 @@ export default function Card({ item }: { item: FeedItem }) {
 
       <div className="flex-1 p-4 min-w-0">
         <div className="flex items-center gap-2 mb-2 flex-wrap">
-          <span className={`text-[11px] px-2 py-0.5 rounded-sm font-medium ${cat.chip}`}>{item.source}</span>
+          <span className={`text-[11px] px-2.5 py-0.5 rounded-full font-medium ${cat.chip}`}>{item.source}</span>
           <span className="text-[11px] text-[#8A919C] tabular-nums">{formatDate(item.publishedAt)} 収集</span>
           {item.isNew && (
-            <span className="text-[10px] font-bold px-1.5 py-0.5 rounded-sm bg-[#00A0E9] text-white tracking-wider">NEW</span>
+            <span
+              className="text-[10px] font-bold px-2 py-0.5 rounded-full text-white tracking-wider"
+              style={{ background: "linear-gradient(90deg, #00A0E9 0%, #0068B7 100%)" }}
+            >
+              NEW
+            </span>
           )}
         </div>
 
-        <h3 className="text-[15px] leading-relaxed font-semibold text-[#253746] group-hover:text-[#0068B7] transition-colors">
+        <h3 className="text-[15px] leading-relaxed font-semibold text-[#253746] group-hover:text-[#0068B7] transition-colors duration-200">
           {item.title}
         </h3>
 

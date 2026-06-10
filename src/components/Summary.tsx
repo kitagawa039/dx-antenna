@@ -22,8 +22,13 @@ export default function Summary({ items, onKeywordClick }: Props) {
   return (
     <section
       aria-label="けさのサマリー"
-      className="bg-white rounded-md border border-[#E3E6EB] border-l-4 border-l-[#0068B7] p-4 sm:p-5 mb-5"
+      className="relative overflow-hidden bg-white rounded-2xl border border-[#E8ECF0] shadow-[0_1px_3px_rgba(16,42,67,0.06)] p-4 sm:p-5 mb-6"
     >
+      {/* 上端のアクセントライン */}
+      <div
+        className="absolute top-0 left-0 right-0 h-1"
+        style={{ background: "linear-gradient(90deg, #0068B7 0%, #00A0E9 60%, #5BC2F0 100%)" }}
+      />
       <div className="flex items-baseline gap-3 flex-wrap">
         <h2 className="text-[15px] font-bold text-[#253746]" style={{ fontFamily: "'Shippori Mincho', serif" }}>
           けさのサマリー
@@ -99,7 +104,7 @@ export default function Summary({ items, onKeywordClick }: Props) {
             <button
               key={k.keyword}
               onClick={() => onKeywordClick(k.keyword)}
-              className="text-[12px] px-2 py-0.5 rounded-full bg-[#EAF1F8] text-[#0068B7] hover:bg-[#0068B7] hover:text-white transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[#0068B7]"
+              className="text-[12px] px-2.5 py-1 rounded-full bg-[#EAF1F8] text-[#0068B7] hover:bg-[#0068B7] hover:text-white hover:shadow-[0_2px_8px_rgba(0,104,183,0.3)] transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#0068B7]"
             >
               {k.keyword} <span className="tabular-nums opacity-70">{k.count}</span>
             </button>

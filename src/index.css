@@ -4,6 +4,8 @@
 
 body {
   font-family: "IBM Plex Sans JP", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 /* アニメーションを減らす設定を尊重する */

@@ -93,7 +93,7 @@ export default function App() {
               <div className="text-center mt-6">
                 <button
                   onClick={() => setVisibleCount((c) => c + PAGE_SIZE * 2)}
-                  className="px-6 py-2 text-[13px] font-medium rounded-md border border-[#D5DAE1] bg-white text-[#5A6472] hover:bg-[#EAF1F8] hover:text-[#0068B7] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[#0068B7]"
+                  className="px-7 py-2.5 text-[13px] font-medium rounded-full border border-[#E3E6EB] bg-white text-[#5A6472] shadow-[0_1px_3px_rgba(16,42,67,0.06)] hover:text-[#0068B7] hover:border-[#0068B7]/40 hover:shadow-[0_6px_18px_rgba(0,53,93,0.12)] hover:-translate-y-0.5 transition-all duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#0068B7]"
                 >
                   もっと見る（残り {remaining} 件）
                 </button>
