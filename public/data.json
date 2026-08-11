@@ -1,7 +1,322 @@
 {
-  "updatedAt": "2026-08-11T07:35:14+09:00",
+  "updatedAt": "2026-08-12T07:39:20+09:00",
   "sourceCount": 10,
   "items": [
+    {
+      "id": "75f413c88171",
+      "type": "news",
+      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし”　日本を含むグローバルに適用へ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
+      "source": "ITmedia AI+",
+      "publishedAt": "2026-08-12T07:16:45+09:00",
+      "isNew": true,
+      "tags": [
+        "Claude"
+      ],
+      "place": null
+    },
+    {
+      "id": "e00f1a65ee04",
+      "type": "event",
+      "title": "こどもDXの現在地と未来を議論する公開イベントを9/17に開催 白書の先行公開も〜こどもDX推進協会こどもDX推進協会 - 教育家庭新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40MVBjRXdUMDhnYUdFakE0dm04dFVTUjI5bmw2S19FS3NKbDZ3UkFmdnB4Q0tWZUhVdWJra0RWMkI4NE1Ma0FmYnR6TjV5ZDh3cVo4?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-12T07:04:13+09:00",
+      "isNew": true,
+      "tags": [
+        "DX"
+      ],
+      "place": null
+    },
+    {
+      "id": "86b1386744e3",
+      "type": "news",
+      "title": "【注目の企業】キオクシア、なぜこんなに話題？　今からでも間に合う“入門記事”まとめました",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/12/news024.html",
+      "source": "ITmedia AI+",
+      "publishedAt": "2026-08-12T07:00:00+09:00",
+      "isNew": true,
+      "tags": [],
+      "place": null
+    },
+    {
+      "id": "eae9fe385652",
+      "type": "news",
+      "title": "「よく聞こえなかったデスら」――『ドラクエ』に“AIキャラ”登場、世界観を守るために張り巡らせた創意工夫",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/12/news012.html",
+      "source": "ITmedia AI+",
+      "publishedAt": "2026-08-12T07:00:00+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "2738d41a0104",
+      "type": "news",
+      "title": "デジタル投資の67％がAIへ、ROIが見えない組織が過半",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news032.html",
+      "source": "ITmedia エンタープライズ",
+      "publishedAt": "2026-08-12T07:00:00+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "d370e456c88b",
+      "type": "news",
+      "title": "介護離職と生産性低下を防ぐ従業員支援AIツール",
+      "url": "https://ascii.jp/elem/000/004/425/4425573/?rss",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-08-12T07:00:00+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "45447498b789",
+      "type": "news",
+      "title": "エージェント型AIで変わる働き方--SAPの責任者に聞く、「自律型」時代の人材戦略",
+      "url": "https://japan.zdnet.com/article/35251230/",
+      "source": "ZDNet Japan",
+      "publishedAt": "2026-08-12T07:00:00+09:00",
+      "isNew": true,
+      "tags": [
+        "AI",
+        "エージェント"
+      ],
+      "place": null
+    },
+    {
+      "id": "ecbb0ad55ddc",
+      "type": "news",
+      "title": "中国の家電生産地「慈渓」まるごとDX--世界最大の小型家電クラスターはどう進化しているのか",
+      "url": "https://japan.zdnet.com/article/35251387/",
+      "source": "ZDNet Japan",
+      "publishedAt": "2026-08-12T07:00:00+09:00",
+      "isNew": true,
+      "tags": [
+        "DX"
+      ],
+      "place": null
+    },
+    {
+      "id": "3d71f563083a",
+      "type": "news",
+      "title": "トランスフォーマーに限界、 次世代LLMを担う 4つの最新アプローチ",
+      "url": "https://ascii.jp/elem/000/004/426/4426342/?rss",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-08-12T06:46:38+09:00",
+      "isNew": true,
+      "tags": [
+        "LLM"
+      ],
+      "place": null
+    },
+    {
+      "id": "1d754cb1b98f",
+      "type": "news",
+      "title": "無料で読めるITまんが 2026年版 ～マンガでわかるAIの仕組み／DC業務のリアルを知るヤマダくん、ほか",
+      "url": "https://www.publickey1.jp/blog/26/content_4.html",
+      "source": "Publickey",
+      "publishedAt": "2026-08-12T00:33:09+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "7d323288eb68",
+      "type": "event",
+      "title": "【8/19(水)開催・参加無料】まちの関係人口、“何人”と即答できますか？──数値で「全体を把握」できている自治体は7.4%。全国242自治体実態調査・結果公開 第1弾【把握の実態編】 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQng5VUdEQVk5TEdJNlhxYm5BRXBqbkM3V2VrS0E1UDBoM3pjTHNlbHBuaWFXZkxfVS1talRGQS1zNzJaMUtuRkRRNHQ4VmpEYkZMdmgwMG84YndJbktWc051N1NFVGJDOHc?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-11T22:30:02+09:00",
+      "isNew": true,
+      "tags": [],
+      "place": null
+    },
+    {
+      "id": "d8a3fba55ae7",
+      "type": "news",
+      "title": "ナガサキの記憶を未来へ「ミライの平和活動展」AIやゲームで原爆や戦争について考える《長崎》 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkppY3FBa2ZLZG5yQ1J6REJDVHdmbENwVGdIakEtZGstajllbGstQWlwYjlNOTMzc1VDMmJfNTR3Mm9zM0NrTDMyemg0TTkyb28xaF9PTHJpWFdobEFKSXoxMnVjNzNuZ1lzMXZxbUxMRngzeHdBYl8xd1QzZ2dTU1picTlkczA?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-11T20:46:00+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "121a72d56d44",
+      "type": "news",
+      "title": "【生成ＡＩで業績激変】「ＡＩで稼ぐ企業」が台頭――次の成長株はどこだ - kabu-ir.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13X0VZWF9aZVR4dUxSWWhLMjJsYnFTZVNDQnZ3UHczSnBoRm84MmttdHR3bS1GTEJDanU5Z19hRmpwYlB5eUZaU3Fvb1diTUxKQ3hzTg?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-11T15:00:00+09:00",
+      "isNew": true,
+      "tags": [],
+      "place": null
+    },
+    {
+      "id": "986a618dbb7a",
+      "type": "event",
+      "title": "【展示会レポート】博報堂、「Google Cloud Next Tokyo 26」に出展 - 電波タイムズ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hMzFnN1BURWdBNElzbnM0UHQtc1lRdGltWW1PUjFwVHo1RDJSLURPV0x2Q3Q3SHRxQUFhajdmcGduM3dsNUVQU1FRWWs4ZllPemxvUHRYME0tX005X1E?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-11T14:50:08+09:00",
+      "isNew": true,
+      "tags": [],
+      "place": null
+    },
+    {
+      "id": "99712504f100",
+      "type": "news",
+      "title": "Saviynt、ARRが３億ドルを突破し、エンタープライズ向けAIアイデンティティ セキュリティ プラットフォーム「Zuma」をリリース",
+      "url": "https://ascii.jp/elem/000/004/426/4426325/?rss",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-08-11T14:11:34+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "d96353cf069b",
+      "type": "news",
+      "title": "「Copilot エージェント」の作成は簡単！ 業務用途に合わせてカスタマイズして使おう",
+      "url": "https://ascii.jp/elem/000/004/422/4422614/?rss",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-08-11T14:00:00+09:00",
+      "isNew": true,
+      "tags": [
+        "Copilot",
+        "エージェント"
+      ],
+      "place": null
+    },
+    {
+      "id": "2cfe2c4ad6f1",
+      "type": "event",
+      "title": "生成ＡＩ、被団協など記述 岡山県内で２７年度教科書展示会 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZOFY5azlDenpJUzFFTXI1U3RERHBTNms2Sm4xU2dOcnI5cEZ0WlMzd0d6Y1RDNzY0R1JZN19jYjRrU3A4bUNBdGZzMTByWUhKbXc?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-11T13:35:24+09:00",
+      "isNew": true,
+      "tags": [],
+      "place": null
+    },
+    {
+      "id": "1fd006ccda15",
+      "type": "news",
+      "title": "歩くAIアバターロボが行政窓口に　ファーストローンチのAIアバター「AICO」が静岡市の実証事業に採用",
+      "url": "https://ascii.jp/elem/000/004/426/4426323/?rss",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-08-11T13:19:40+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "f9f42f03f176",
+      "type": "news",
+      "title": "【大企業マーケ責任者に聞く、生成AI活用のリアル】6割以上が生成AIを「実務を救う救世主」と回答 一方で約3割は「自らの専門性・キャリアへの脅威」と実感 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kQ2tBVzJkRzI2MXVPX3RFcU85SVNOUEptZzdHeDdQV2htcEI1RDlTNThZM2NzUEtrd3gxdERucndvVHlLVGRBc3FOYk0zbE5SUF9TQ2JEbmRIZE4zS1hCMkJqSFF0RmMtUWc?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-11T13:00:02+09:00",
+      "isNew": true,
+      "tags": [
+        "生成AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "6db8606a7dee",
+      "type": "news",
+      "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に　特化型「GPT-5.6-Cyber」投入",
+      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
+      "source": "ITmedia AI+",
+      "publishedAt": "2026-08-11T11:48:40+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "16243b697733",
+      "type": "news",
+      "title": "AI時代に、エンジニアはどう生き残ればいいのか。",
+      "url": "https://ascii.jp/elem/000/004/426/4426320/?rss",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-08-11T11:16:05+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "07a70ea8c7c0",
+      "type": "news",
+      "title": "農林水産省がDX推進担当を募集、エンの『ソーシャルインパクト採用プロジェクト』で2026年8月より公募開始 - Koubo",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1GOWVvUk1Za0cweVdTdGJrbnV5X2JPaDFVVFV0TEd1ZVV4dExkRHpfcHFDYld2NjRZX3dsZV90R2YxUE5Ja2c?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-11T11:00:55+09:00",
+      "isNew": true,
+      "tags": [
+        "DX"
+      ],
+      "place": null
+    },
+    {
+      "id": "7e92d5ad3f0d",
+      "type": "news",
+      "title": "Box上のファイルを２分でスライド化。生成AIサービス「ChatSense」がリリース",
+      "url": "https://ascii.jp/elem/000/004/426/4426311/?rss",
+      "source": "ASCII.jp",
+      "publishedAt": "2026-08-11T10:50:00+09:00",
+      "isNew": true,
+      "tags": [
+        "生成AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "bbb01c0a9f5e",
+      "type": "news",
+      "title": "2028年にSOCの人手対応、30％減へ　常態化する攻撃に企業は勝てるのか",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
+      "source": "ITmedia AI+",
+      "publishedAt": "2026-08-11T08:00:00+09:00",
+      "isNew": true,
+      "tags": [],
+      "place": null
+    },
+    {
+      "id": "76d11d22627c",
+      "type": "news",
+      "title": "AIは ｢使うもの｣ から ｢動かすもの｣ へ EC･SNS･開発･製造の最前線が浜松町に集結 - finders.me",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oXzE4SFJnc3Z4SGxROGpqRWx1NjJFelBnTlJVeWFRbkw4R0Q3WGZSV1BCX01SeENGa19aRjhxaTlNamNzWjd5a2p3RTAydw?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-11T07:59:47+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
     {
       "id": "a9f7e708e3ac",
       "type": "news",
@@ -9,22 +324,8 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000494/",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-11T07:21:33+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [],
-      "place": null
-    },
-    {
-      "id": "994d0ee7a9f7",
-      "type": "event",
-      "title": "AIは ｢使う｣ から ｢動かす｣ へ AI・DXの5展示会が浜松町に集結（FINDERS） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ua211UW1pcUVEREc2WGtPSkd4VHJ3WWdGQmN5LUlWdk5Ma2kzUkd5Sy16d2Z5MFJ4U3VBYmFVNFd3czVXWnJTeVh3UUlOWk1aMk1yT3Rvb3ZGWWxnQVFnUVpVZXZyWm1oRjY1dG45UzNXbHhwd2s2NEhlRVRJcVU?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-11T07:15:08+09:00",
-      "isNew": true,
-      "tags": [
-        "AI",
-        "DX"
-      ],
       "place": null
     },
     {
@@ -34,8 +335,22 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000493/",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-11T07:11:40+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [],
+      "place": null
+    },
+    {
+      "id": "10c120c128c6",
+      "type": "event",
+      "title": "AIは ｢使う｣ から ｢動かす｣ へ AI・DXの5展示会が浜松町に集結 (FINDERS) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1k3UXRhLW95MURqTEVNWGE5SDVWTzZkZTVNaXpTOG9BaXZhZ2dXX3FCSjh5MkpITVQ5a1pwNlhnLWZlWWxIRDEtbmxUMjQwMmNpX2NLRnpGcWxya21qSjFjMkp3OTJnVlpTZDRpbWRKemkwRndKMWxoVWswOXowazRyalRiRjV1aGJBOXZn?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-11T07:01:59+09:00",
+      "isNew": true,
+      "tags": [
+        "AI",
+        "DX"
+      ],
       "place": null
     },
     {
@@ -45,7 +360,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-11T07:00:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -57,34 +372,8 @@
       "title": "オリオン機械、DX推進 “人が歩かない工場”コンセプト - 日刊工業新聞",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SDM5dVdFNFRLeW1FUUZQODJPSks1UDlMRi1lNWNqaWxaMWtiNkI5MFJOQmJFeVdNWENTZ1V4VDZpR0JlSWFlRS1uekNlaDFvbkhMdlVRRjdxYVE?oc=5",
       "source": "Google News",
-      "publishedAt": "2026-08-11T05:03:07+09:00",
-      "isNew": true,
-      "tags": [
-        "DX"
-      ],
-      "place": null
-    },
-    {
-      "id": "80a9f1768ae7",
-      "type": "news",
-      "title": "AIで変わるビジネス、企業の実装が分かる10選 - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGZvcXo0enUzRE5XRVU5MUkyZVRqSGd3WkpPUm85UnpKTlN6Y3ZYeFRqYWR6WWRfeXg5RktjNjBEVVRWcXRGSWNRcFpZWkNmZnNwaHVtX3BZeERvQ25rU3hCQm5icUFfN25BNmpwUkNIZ3Bfc2NVS3BJRzVsVnYtZ25ibEhJTEMyOFhRMQ?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-11T05:00:00+09:00",
-      "isNew": true,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "8af336ceaf08",
-      "type": "event",
-      "title": "【展示/相談型】製造業DXセミナーにFRICS Fab登壇（理研産業主催） - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TRC1HbDVvc25QQTZNVHJHRllkZGdETzFqcUdPX2RjbXBneVdhV0E1MHpzSnhHSHM5RjF3S0FpYk9OVkVwLWFyZm1Ua1c5elNzdmpXXzBSUGE4OUlMdEpVX1R2RkI1UEV2N1YzYlJNYnpibjd0?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-11T03:10:00+09:00",
-      "isNew": true,
+      "publishedAt": "2026-08-11T05:01:49+09:00",
+      "isNew": false,
       "tags": [
         "DX"
       ],
@@ -97,7 +386,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-10T23:11:18+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI",
         "Claude",
@@ -106,78 +395,28 @@
       "place": null
     },
     {
-      "id": "efe984e5780d",
-      "type": "news",
-      "title": "コンパクトな23.8液晶一体型PCが15万円台！ Ryzen 5・メモリ16GB搭載「Lenovo A105 AIO」タイムセール中",
-      "url": "https://ascii.jp/elem/000/004/426/4426180/?rss",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-08-10T20:00:00+09:00",
-      "isNew": true,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "d0a8eee6fcf0",
-      "type": "news",
-      "title": "ビー・ビー・コミュニケーションズとシャノンが業務提携し営業DX支援を強化する取り組み - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDQnN1cHV4V2Y3OWRnR01zZDA3QVRPX01hY3FudXhTaDlGVFlVYWkzUVdBWTBMa2pjMGhOb1lYNlJWUENKdjR1aXRHVEMxYktDd1drbzdyTnpxZUNaSFdMRWxUZ05jd2s?oc=5",
+      "id": "ae0f4303030c",
+      "type": "event",
+      "title": "生成AI時代のパワポ活用術・スライド資料づくりを体系的に学ぶ！ 9/4（金）～ 無料セミナー「AI時代のPowerPoint活用術 Vol.6/Vol.7」 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NUllteDhrdllhRmJoVU1WZDBiRS0zS09UdTBmam5UVXZuOXluN1FOU1djTFVVQ2VkRUxYNXdyNHMyM1JmU0VFb3E4dVNmMmJGYkhVcndNUHdCSVpLbGktdjAzQmUtZDFldWc?oc=5",
       "source": "Google News",
-      "publishedAt": "2026-08-10T19:03:53+09:00",
+      "publishedAt": "2026-08-10T19:30:02+09:00",
       "isNew": true,
       "tags": [
-        "DX"
+        "生成AI"
       ],
       "place": null
     },
     {
       "id": "57629b0dc7e7",
       "type": "event",
-      "title": "【視察】AIを「使いたいけれど、怖い」ｰ第1回 AI・人工知能EXPO NEOに行ってきました - go2senkyo.com",
+      "title": "【視察】AIを「使いたいけれど、怖い」ｰ第1回 AI・人工知能EXPO NEOに行ってきました - 選挙ドットコム",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMlFtR1NPSnRPd0l1NC1jckg4WUtRYm1rZUFDWmRsUEN4TFNnckRTSlJ6c0VCaXhpb3dYXzhVMDFCQ3JqdlZWR3hGUWpwT1BMX01BQXpLS01GRWdFUkNV?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T18:55:56+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "2e5478445656",
-      "type": "news",
-      "title": "ビー・ビー・コミュニケーションズ株式会社が、株式会社シャノンと業務提携契約を締結 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aLWtJZVA4Mkx1b1JTU3c1RVZNVk9IWFdNTWk5Zm1KT2drSkVwWHZYV0I0RGRzOUFlMjI3UVZxbHBwRmV6NnllRDRfMzgwdGd0TkszeTlybjZQcUxoSks4MG1vUHNQYjZN?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T18:45:21+09:00",
-      "isNew": true,
-      "tags": [],
-      "place": null
-    },
-    {
-      "id": "daf918a5c555",
-      "type": "news",
-      "title": "建設会社の「AI導入が止まる」原因を特定。無料レポート『建設会社がAI導入でつまずく5つのパターンと回避法』を公開",
-      "url": "https://ascii.jp/elem/000/004/426/4426273/?rss",
-      "source": "ASCII.jp",
-      "publishedAt": "2026-08-10T18:35:27+09:00",
-      "isNew": true,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "dab1653d4c17",
-      "type": "news",
-      "title": "エイジング、米Articul8 AI社との協業で高度な生成AIソリューションを展開へ - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6ZExyVUt3LVVIWTBYcGZyX014OFd4TVZXRzVYSGpoU0J6VGFmSzVNcUYwZmFCc1B0UzZoemJMU2o5ZzVhbTdPSmZ0R2x5NU5BZW5qblBndHVhMzQtTVhDWFg2QjAzLWE0aEdFeG5HdTQ?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T18:24:06+09:00",
-      "isNew": true,
-      "tags": [
-        "生成AI"
       ],
       "place": null
     },
@@ -188,6 +427,19 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOE1JV0NRYTMzLVNQQ1c3dE5mdy1MdFQ3TExUczVEZ0wxVEc5RE1fVjQwbXk5NjhpbmVhcTNBT2VidmdYaG9aNnpkUGNsbF9fZTlmOG9vNHlBNVl3WWwtWVZudHBSa1g2TWc?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T17:58:52+09:00",
+      "isNew": false,
+      "tags": [
+        "生成AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "f2b74204491a",
+      "type": "news",
+      "title": "8月20日発売『AI白書2026』独自調査「企業における生成AI導入の投資・統制・成果実態調査」を発表、 国内企業では - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51RkVqNHZNOWs5X21QMmhtWEZHRU5wT1ptOFZNeDZDVUhDeE5KVUlBQ0Z6dXlBQmswTDBGSFpaWU1Ic3RYQzRlbWJDRGhBQ0p4RmRWNHNKdGlxXzEwbXZYUDIydWcxMmtFUXR6MDFFbUtHZHh3WFBwQ1BvTQ?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-10T17:30:31+09:00",
       "isNew": true,
       "tags": [
         "生成AI"
@@ -201,21 +453,10 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDaXdSc3lCSkhuTndZRHhvSE8zQmE2eDNoQTJlTlphLXhBZUNPcjRyaHQ0UGVhZF9SU3FZXzB2NUxGVWRUNnZFc2dOY29PTkZjc0F4aVlyMGpwVlFQVnZzU2VHWTNlR2d6emc?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T17:00:01+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
-      "place": null
-    },
-    {
-      "id": "83bd189c531e",
-      "type": "news",
-      "title": "エクサウィザーズ、自治体向け生成ＡＩが全国約６割の都道府県に導入 - kabu-ir.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1bW4wUEt1ZFppeEVZZklUczU3QTdrZi1sZHRkS3RBZloxbkhYR1BWVkhYR1lBNGtDeGdqRXVFUnFYZ2ZKWldxVjgwZFo5cUxDaHZQeA?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T16:13:26+09:00",
-      "isNew": true,
-      "tags": [],
       "place": null
     },
     {
@@ -225,20 +466,7 @@
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TZlgzUnZpVTZLMEZTLVp6X1dVd2RFVGcwOHZhN3M1Y3RxWG9ocDBNV01jMkxXMFo2cDh5VDNMang0NGZUWVE?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T16:08:46+09:00",
-      "isNew": true,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "1cfef4b59bf0",
-      "type": "event",
-      "title": "Samsungは都心、LGは展示会場…IFA 2026で交錯するAI家電の勝負手 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UQWhVV1dubXVwS1lPbHg3bDFnRUM3RFlXWnUxQ2R2bzRFNkVsREc5Nnc1RHBWa0lrWXNyemYzMDNQU3VROUZFWGd0TFlNd2FhamJ3clNWMVdiMHNIaFQ4ZW0xa2twVG52dzRVS1Nna05pZnpj?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T16:06:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -251,47 +479,10 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3OVZPd2IyTWUtQlBHOXFtbndjQ1BDSEdtbGZDUjZMbFdjMjNSTDZVU2p4SS00SGd5Wi1hWTJBZlVVNG12UXI5bm9qWE1DUi1YWEVVUWtKYU9MTFI5QlNJclpaNjI?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T16:00:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "生成AI"
       ],
-      "place": null
-    },
-    {
-      "id": "f1becb78c3ee",
-      "type": "news",
-      "title": "【株式会社NIJIN】大企業DX部長から伝統校の公募校長へ！ビジネス最前線で培った「アントレプレナーシップ教育」とこれ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlMER2SnppWFJLQ3hKTWdTbHpLVmdUWk9PRkw4S19ocWFEbnVZeUxLalJRbVEwMTFLWU5EZGkzNWtITlJramhfcFVidWFHT29reEpISWV3REpKeEZ3Zlp3NDVBb1JtRTR5VXBfc0dKZjJyWXA2V1VxT1V5aw?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T15:00:26+09:00",
-      "isNew": true,
-      "tags": [
-        "DX"
-      ],
-      "place": null
-    },
-    {
-      "id": "02bef71d08f3",
-      "type": "news",
-      "title": "アート不動産、従業員約90名を対象に「Google Workspace×生成AI研修」を実施！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0MEpkb21wUkp6aGpxYk51VmtxdXprTWYwcWw4ZWlFc1V3ZHBUNEFCTmt5bnJ6UFl1QlFua1pRdDZTdlJmSFk5bWxHeHFzMHJNVl9XdHFKYjJfUGRMRFkxRDlPbXZEanRnd3c?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T15:00:01+09:00",
-      "isNew": true,
-      "tags": [
-        "生成AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "7e58b6014713",
-      "type": "news",
-      "title": "情シスの夏季休暇に関する実態調査 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZcF82bzhtZm1BWl9ZRUV5akpJQWNwdDdxdndRdW1LaF9fOTBQY0ZRR3dqNUFjMUJ5MkZOMEFqbWV1R2t6TXZtRmZJWk90QmptUW9zLWlsNnhhRUExU0N0enVCTFlYVU9LeUpuNDdMY0VwUmNvU2FF?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T14:51:16+09:00",
-      "isNew": true,
-      "tags": [],
       "place": null
     },
     {
@@ -301,7 +492,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000484/",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-10T14:29:28+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -314,7 +505,7 @@
       "url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news066.html",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-10T13:40:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [],
       "place": null
     },
@@ -325,7 +516,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GUmFGN3RDbWc3WFZDZFFHVHl6LWpKNFJrVm82TzBvSFp6TE0zcWJBeEJWckV6UDhMbzBPdnNkNHdTZTVqczRUR3F1WGRJSC0ySUhHS2cwQUlzMmVpWHBnalRYZUZOSnNvYVBBOTFaOFFDaGJV?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T13:06:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "生成AI"
       ],
@@ -338,21 +529,8 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news043.html",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-10T13:00:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [],
-      "place": null
-    },
-    {
-      "id": "4b49a0f7406a",
-      "type": "news",
-      "title": "【2170.T FY2026 Q2 決算説明会】MRR計画7.3億円に上方修正、生成AIのSELF買収で変革支援を深化——オープンワーク求人39％増も個人開発は苦戦 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVb0l5OUpHQTZGVkt4UFRiQVNuSXRXT1FSNEVpRWVTOUkyZEZWX1MzRmJhQ1ZaVEdTYzJnbFJYWVc5YVI0djQtQkUycE94alFpOGZUSU42ZVVXZUU4YWJr?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T12:55:00+09:00",
-      "isNew": true,
-      "tags": [
-        "生成AI"
-      ],
       "place": null
     },
     {
@@ -362,7 +540,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000481/",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-10T12:52:46+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -375,22 +553,9 @@
       "url": "https://japan.zdnet.com/article/35251459/",
       "source": "ZDNet Japan",
       "publishedAt": "2026-08-10T12:33:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "f0c952f340d7",
-      "type": "news",
-      "title": "動画生成AI「MiniMax H3」の開発チームが「画像生成・編集モデル」「動画アップスケールモデル」「低ステップ版MiniMax H3」を準備中であることを明言 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TYzRDWmFuTXhYWDQxTnpEbHJMc2JWdEU5cUZFS3J5aHRFTzRkb3ZhTE9hSi1WbDJ0U29fVnRkVF9DeFhLYWxMdWplLWhhSlJ0anlyNDdla2lzNWtZdGEzQlVocjlJdw?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T12:18:00+09:00",
-      "isNew": true,
-      "tags": [
-        "生成AI"
       ],
       "place": null
     },
@@ -401,22 +566,9 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUhyZ2stcjVRaWtBd2NOcGNYMUZJUmxSM2MyTFRLTXZFMkxKeDFsZ2N0Ykh6NnZTa2NKaUdPb3cwV2xZTjUzSUZVOWp6OXBlTzVZbTlUdm1DSGx3SG1paUNRUzNVQ0pETDBtSTVzNExGTmFORlU5dHR4cTV5cW9CNWRFQmwxbFJTYmNNaDh5aHI?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T12:05:36+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "DX"
-      ],
-      "place": null
-    },
-    {
-      "id": "ee37e1672a86",
-      "type": "news",
-      "title": "8月20日発売『AI白書2026』独自調査「企業における生成AI導入の投資・統制・成果実態調査」を発表、 国内企業ではAI投資の拡大と人員削減は直結せず - KADOKAWAグループ ポータルサイト",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3Z1VFdQSTBoVGRjNzc4T2lkQTQxcURZZXMtcGVDSFRKOFdXMlNzVVdCZkVlYU5CenB5Q3lWTm9mcmxGV2xrZmQ0OHJVVERZekZMZGlKaTlyM1Rybm1XaFVPcENHNGlpQ0wxZDVTaVNfZlZaVVNpRzR5SzQzRUQ3S2o3UzA?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T12:02:24+09:00",
-      "isNew": true,
-      "tags": [
-        "生成AI"
       ],
       "place": null
     },
@@ -427,7 +579,7 @@
       "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news037.html",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-10T12:00:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -440,7 +592,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pNlc0UXNiQXdWUzF4UnZKcGtQVEZyM2FSTVV4cUFGR3Z3aVYxYUwyYy05b0FpTW42Y29iYVZXOWowQUpabzV3dlBZWEh4VkZUV0tUWVZSS0VHczNxeG9TQnhGT2NQQVVOYXJjRmQ1b2YzZw?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T11:45:23+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -453,7 +605,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04SkFFSFptb3F3aEZFU2tEX1FhcXFVdWF6OUd3aEY4SE5zUDFpYkVUMHAwRHNQUkY5YmxnR092amdwcFdyenM5TFRsVDFYVWt3bjdpWEY5anNNTGNTU1dLenBmZmxmb2s1X3c?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T11:28:20+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "DX"
       ],
@@ -466,7 +618,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000475/",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-10T11:19:10+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -479,7 +631,7 @@
       "url": "https://japan.zdnet.com/article/35251335/",
       "source": "ZDNet Japan",
       "publishedAt": "2026-08-10T11:18:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -492,7 +644,7 @@
       "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE13SGw5YWpoNC1TRlB4aW5jQVh1bzk2akhYTUtzMW9oTTFtUmFQU0JaRHQxajMtZENnWkE?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T11:14:50+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -505,7 +657,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrNWdqcGxqZ2RiMHFpTnpQRTJlcmluajhUSWxFcXV0RU1acS12bHVHa1k3M1hESmUwdEZyTFRDTjkyLXFXVTdVSDY0Z1NfdHMyakE?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T11:03:06+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -518,7 +670,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHRkVBam5XWGJ3YWJDVGdaSjVkT1BhLXQ1WlhIQ1oyZVExTGl5MDJZZzJLRDI5b29KQk5Sc2QyMXlwVDBxVUh3em9Sb0ZKWlFyZ21HTVd3OEUxRVl2NjhEZ3hMa3JGOFRWTGc?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T11:00:02+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -531,20 +683,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yX3pNeTNhZXdONXRxanFSMkk3ZGpkNzE2RFFWRDNkcFdwazFSZUtvWXlWV0pDR0JSVi1MRkVFUDIwZlBtWWQ3RW9yaUQ0WFhVMWMzWHdFLWVPT3d2emxWOXIydGFMbkFmVE91ZHV0b0hRQWlDTXc?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T11:00:00+09:00",
-      "isNew": true,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "a339b7f33a22",
-      "type": "news",
-      "title": "人月ビジネスの転換点で変わる人材像 AI時代のエンジニア採用最前線 - 週刊BCN＋",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UeGJkN1F4ODg1cHdUUEYtUUF1SDgwNWMwQVMxU1ZjdGJNRU40clprRXFlcWdyanN6Tm55cGhDVDU3S2dKMlFhbEU0dE5tMmVEOWZkUlZQYjFqQ2FKWThSZ3p1czE3Z3E4T0F2Vmt3NFNYVEtyRUtndw?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-10T09:00:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -557,7 +696,7 @@
       "url": "https://www.itmedia.co.jp/business/articles/2608/10/news028.html",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-10T07:45:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI"
       ],
@@ -570,7 +709,7 @@
       "url": "https://www.itmedia.co.jp/business/articles/2608/10/news027.html",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-10T07:00:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI",
         "ChatGPT"
@@ -584,7 +723,7 @@
       "url": "https://kn.itmedia.co.jp/kn/articles/2608/10/news034.html",
       "source": "ITmedia AI+",
       "publishedAt": "2026-08-10T07:00:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [],
       "place": null
     },
@@ -595,7 +734,7 @@
       "url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news017.html",
       "source": "ITmedia エンタープライズ",
       "publishedAt": "2026-08-10T07:00:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI",
         "エージェント"
@@ -608,19 +747,6 @@
       "title": "トークン消費量を競わせても無意味　AI支出を成果に変える指標とは",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2608/08/news006.html",
       "source": "ITmedia エンタープライズ",
-      "publishedAt": "2026-08-10T07:00:00+09:00",
-      "isNew": true,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "946c8198ba1c",
-      "type": "news",
-      "title": "AIとの会話、できるだけプライベートを保つには",
-      "url": "https://japan.zdnet.com/article/35251224/",
-      "source": "ZDNet Japan",
       "publishedAt": "2026-08-10T07:00:00+09:00",
       "isNew": false,
       "tags": [
@@ -642,13 +768,26 @@
       "place": null
     },
     {
+      "id": "946c8198ba1c",
+      "type": "news",
+      "title": "AIとの会話、できるだけプライベートを保つには",
+      "url": "https://japan.zdnet.com/article/35251224/",
+      "source": "ZDNet Japan",
+      "publishedAt": "2026-08-10T07:00:00+09:00",
+      "isNew": false,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
       "id": "944c547872cc",
       "type": "event",
       "title": "アイルが「ＤＸ ＥＸＰＯ」に出展、システム活用・再構築でセミナー - 金属産業新聞",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SbTJjakFIZUlmd3RkOHJtQmZjQWhRRFNtdkZGVXI0bng3ZFFzWTVBV01lb1FmUlAtRVItMnI5aG1WRGczZEtHVzJRZVk4Y1hMSF9wMy1TbGc?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-10T06:25:57+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [],
       "place": null
     },
@@ -680,42 +819,15 @@
       "place": null
     },
     {
-      "id": "7d99c914150c",
-      "type": "news",
-      "title": "【アーカイブ公開】「ふるさと納税 実態調査 調査報告会」YouTubeでの配信を開始〜ポイントからストーリーへ。転換期の打ち手を学ぶ90分を、いつでも〜 | 一般社団法人自治体DX推進協議会のプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5UnNoRDlXVndTQ0VxdjVpTWcxRi1Hai1FaGQtV1NvMTVfVFJGclpxZk9OSDdBUmE1bVpjYjVtSVZ1SjVKRnVIQnVWQ25BWEs4a3VnQ1k2dmo5dk1zcUFpX3ZjcEVtRG5ZU0E?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-09T23:00:02+09:00",
-      "isNew": false,
-      "tags": [
-        "DX"
-      ],
-      "place": null
-    },
-    {
       "id": "48509440da7e",
       "type": "event",
       "title": "【出版記念セミナー】佐藤雄太×池田朋弘『中高生のためのAIが最強の家庭教師になる自宅学習法』著者対談 無料オンライン開催 - 福島民友新聞社",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRcDBfMGNKYVFXQUI2SkVXSHFvM0Y0R0JtUnhKaVdkX3B0cFRtSm5yRWRaRTBRVFEtRkZkbWN4eE10YzdzM2FLNmNuaVhWTklYUU5LYXRhNUloTGZPY1hfNXJodFM?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-09T21:05:38+09:00",
-      "isNew": true,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "1e8e50803bc6",
-      "type": "news",
-      "title": "生成 AIは急速に発展したが、これまで企業で活用される方式は大部分質問に答えたり文書を作成する水準に留まっていた。 最近はさらに一段階進んで自ら業務を遂行する「AIエージェント」が浮上している。AIエ.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jWS1Pel9PcjgzWU5WdE9pTGRocElQRE1nZFFWTk5xZ19DeEdHR3dDVHY4V0t5aWlxOVE3aDA0TExYT09Fc05zVE54MA?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-09T17:31:28+09:00",
       "isNew": false,
       "tags": [
-        "AI",
-        "エージェント"
+        "AI"
       ],
       "place": null
     },
@@ -730,33 +842,6 @@
       "tags": [
         "AI",
         "Claude"
-      ],
-      "place": null
-    },
-    {
-      "id": "85b60ea691cf",
-      "type": "news",
-      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能　macOSとLinuxに",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
-      "source": "ITmedia AI+",
-      "publishedAt": "2026-08-09T12:11:16+09:00",
-      "isNew": false,
-      "tags": [
-        "Claude"
-      ],
-      "place": null
-    },
-    {
-      "id": "61a0f70b1902",
-      "type": "news",
-      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
-      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
-      "source": "ITmedia AI+",
-      "publishedAt": "2026-08-09T07:16:59+09:00",
-      "isNew": false,
-      "tags": [
-        "AI",
-        "エージェント"
       ],
       "place": null
     },
@@ -789,56 +874,6 @@
       "place": null
     },
     {
-      "id": "8db4d8a2db32",
-      "type": "news",
-      "title": "Google Chromeの新機能「Skills」　AIプロンプトの“毎回手打ち”を不要に",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html",
-      "source": "ITmedia AI+",
-      "publishedAt": "2026-08-08T13:00:00+09:00",
-      "isNew": false,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "f4c830ac5687",
-      "type": "news",
-      "title": "不動産賃貸の管理業務のDX推進で業務効率化を支援「iTSCOMスマート賃貸管理」｜Infoseekニュース - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9naFJaMGxsYU9xMWVjMEJqZ3VseEY0OTFodXhVVWpJZ3ZqQmcxQlZKckc3ZHBxeDFHdW5MYXVWUTFQZHF4cTg4Q050WlFiczhKekxlWEd6VjM4d2hNY1BILVRFMHVPbmhUaHQ3RWxqZnJQZw?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-08T08:10:00+09:00",
-      "isNew": true,
-      "tags": [
-        "DX"
-      ],
-      "place": null
-    },
-    {
-      "id": "5c10d3add91c",
-      "type": "news",
-      "title": "Anthropic、「Fable 5」の生物学の制限を緩和　誤検知によるフォールバックを約85％削減",
-      "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
-      "source": "ITmedia AI+",
-      "publishedAt": "2026-08-08T07:57:07+09:00",
-      "isNew": false,
-      "tags": [],
-      "place": null
-    },
-    {
-      "id": "db9b1a1ed201",
-      "type": "news",
-      "title": "OpenAI、次期モデル「Astra」の一部開発を停止　「Critical」級サイバー能力の可能性否定できず",
-      "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
-      "source": "ITmedia AI+",
-      "publishedAt": "2026-08-08T07:11:46+09:00",
-      "isNew": false,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
       "id": "2115d8bfba0a",
       "type": "news",
       "title": "【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力 - thinkit.co.jp",
@@ -863,6 +898,19 @@
       "place": null
     },
     {
+      "id": "4053f4c3eba9",
+      "type": "news",
+      "title": "ミガロホールディングス---1Qは増収・最終利益が増益、DX推進事業が黒字転換(フィスコ) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeWIwYU9iT2RvcHBvQlRaNlhsQV91aXREdUxVZ2RZZXZ6X1lYcVc2T0RER3hZTi1lNHhQUnFWRWRJREV6eTQwczhlc0JtY25VYXNtb19uLWF2Y1hDVHBGbjdITTZ6cHJaQ3FIVmVBSWZ0ek9vMkdGM2FrdlJlbWV2ZEk2Q08xb2c?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-07T18:49:00+09:00",
+      "isNew": true,
+      "tags": [
+        "DX"
+      ],
+      "place": null
+    },
+    {
       "id": "04e4dd495636",
       "type": "news",
       "title": "NTTデータG、2026年度第1四半期は増収増益の好発進--AI・データセンター投資を加速",
@@ -876,38 +924,12 @@
       "place": null
     },
     {
-      "id": "13ef6c78ec6b",
-      "type": "news",
-      "title": "リフォーム産業新聞｜いえらぶGROUP、ニッカ不動産がDX推進 オンライン集約で業務負担軽減へ - 株式会社いえらぶGROUP",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TVmtnM2MtUy01X3VpNDFMYmpxMmZ6S0JGS2ZQV0pLaFBrWjl0T2JKXzdVRExuRGlsSGFKWWlwMkxNbUtCQk15a3hsOUM4bUlheFRFYzU0Zw?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-07T17:56:11+09:00",
-      "isNew": false,
-      "tags": [
-        "DX"
-      ],
-      "place": null
-    },
-    {
       "id": "fb5a9eb7a836",
       "type": "news",
       "title": "フロンティアAIで迫られる日本企業のセキュリティ課題への対処",
       "url": "https://japan.zdnet.com/article/35251423/",
       "source": "ZDNet Japan",
       "publishedAt": "2026-08-07T17:32:00+09:00",
-      "isNew": false,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "193325f7b119",
-      "type": "event",
-      "title": "キオクシアのAI向けSSDが国際展示会で最優秀賞 GPU活用を支える新ストレージ技術が評価 - PlusWeb3",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zNGduSnE3YUxKTF84S2pSdC1ta2hEUnY3c0dtdHVJZTF3ZFAta2tDSWJEWHNyS3M2RkI0U1VjLWVCakt3Qk9pS3NwX0FHREozaUxObG95dk5aWFdTdGFF?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-07T17:07:51+09:00",
       "isNew": false,
       "tags": [
         "AI"
@@ -948,7 +970,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfWEFfOXhrVnVENFpESkVjX1Z5ZFg5RThQdEduVHB1TUppWDZiV0ZSc1FFd00yVzVHWk9qdFZYT3JnaTczY2RsczBB?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-07T16:00:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI",
         "エージェント"
@@ -971,11 +993,11 @@
     {
       "id": "4f6c9b480927",
       "type": "event",
-      "title": "「社員20名で年間40棟」を支えるDX・AI活用とは 工務店の差別化戦略を学ぶ無料オンラインセミナーを8月20日に開催 - Newscast.jp",
+      "title": "「社員20名で年間40棟」を支えるDX・AI活用とは 工務店の差別化戦略を学ぶ無料オンラインセミナーを8月20日に開催 - newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IVXluXzhGeVl6R3pmY3JVOEhCeXg4TTBvMncxTlVIZ3lQbkprZ292LTRKbmdvaVRNQ3lPWGpsRWNoVUNyVVJR?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-07T15:30:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "AI",
         "DX"
@@ -997,62 +1019,22 @@
       "place": null
     },
     {
-      "id": "50e1c100a651",
-      "type": "event",
-      "title": "【ライブ配信/ZOOM】「次世代AIインフラと光電融合実装 ― 膨大情報処理への対応，光電融合を読み解く ―」セミナー開催！2026年9月17日（木） 主催：(株)シーエムシー・リサーチ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVS1KT053RjEyVDlkVjl3Yy12TGRlTWFueEJpc1RkLVZKVFF1TnJ2R19tY3Ata2R4RGtpR21MZEM2eXlOaWxJVkFkZ3V3T2Rncm1wVnVFM2dZdExlaWxMVld2dnJtMWQ0VkE?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-07T14:30:02+09:00",
-      "isNew": false,
-      "tags": [
-        "AI"
-      ],
-      "place": null,
-      "eventDate": "2026年9月17日"
-    },
-    {
-      "id": "b7b7d34e11cf",
+      "id": "c38f8eff1a74",
       "type": "news",
-      "title": "東京都市大学が10～11月に社会人向けリカレントプログラム「DX推進人材育成コース」を開講 ― ビジネスアーキテクトとしての思考と実践力を養う - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYYW9jRVJOQXI1bXdYTGZDLWNPSjFZaHRpSmNIVVl6cmdyNU9oNjRabFI1YzRMR1dmWkRzcjlsSG9oM1VVZXRsR3A4VzRwTUQwLUo1aTlWR3FWQQ?oc=5",
+      "title": "不動産賃貸の管理業務のDX推進で業務効率化を支援「iTSCOMスマート賃貸管理」 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yNl9FTVV6NVFlcjJxZzlUQ3RvcWUwQlVXVllUN1ZfVjRBcmJsTDNqZW5kUGJjRTdqNGZZaTVzRjJoX2Zmc3ZLTG4yT0hNQVVNTDN3RnpmaVE1czhMMWNtYUIwNi1UaEE5R0E?oc=5",
       "source": "Google News",
-      "publishedAt": "2026-08-07T14:20:14+09:00",
-      "isNew": false,
+      "publishedAt": "2026-08-07T14:00:02+09:00",
+      "isNew": true,
       "tags": [
         "DX"
       ],
       "place": null
     },
     {
-      "id": "ef00e835bc88",
-      "type": "event",
-      "title": "【8/27開催】東京商工会議所セミナー「補助金申請者必見！ 「採択される事業計画」の作り方と生成AI活用術」 - sogyotecho.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VTnB6VVpXVUplSWpwazhrVW5yeC1USW1WMmticUZXVlJUT3Q0LXVEZkJYQkRMdW1OMHE0V2RWeDE3WGt0aHJpNHlUMGIyZjFLR3NQQ1d3?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-07T14:07:37+09:00",
-      "isNew": true,
-      "tags": [
-        "生成AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "ddd39df96150",
-      "type": "event",
-      "title": "【8/20開催】東京商工会議所セミナー「生成AIで売上を伸ばす 〜基本から、集客・販促・接客・売上分析まで〜」 - sogyotecho.jp",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lTW5SdVFNejlFdkVDYlBHQmxNWWdUUXA3VFdaU2pGM1RHMW03V2xzV1ppOXVhVnlCaEd2SnFocmc3dGhacmtJamhiMFBsb1VaN0Q4enZEUllWTktL?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-07T14:01:15+09:00",
-      "isNew": false,
-      "tags": [
-        "生成AI"
-      ],
-      "place": null
-    },
-    {
       "id": "8920a5e1e76d",
       "type": "event",
-      "title": "【導入事例】約40社・来場登録者数2,000名超のAI展示会で実証。大規模イベントでも安定運営と開催後のデータ活用を実現するeventos - 新宿経済新聞",
+      "title": "【導入事例】約40社・来場登録者数2,000名超のAI展示会で実証。大規模イベントでも安定運営と開催後のデータ活用を実現するeventos - shinjuku.keizai.biz",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ld3VTejNWMFFtLUVDN2k2dzhIbWszalNqU0tSLTJOOExGYWhEV0c2YXlYSWlJNU9QREFoeFZ1WG5TQjdoTXhtZXNaMU90UTVOOHpNQUtR?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-07T13:42:19+09:00",
@@ -1060,19 +1042,6 @@
       "tags": [
         "AI",
         "データ活用"
-      ],
-      "place": null
-    },
-    {
-      "id": "edc0f391e0f1",
-      "type": "news",
-      "title": "【CINC独自調査】生成AIは求職者の企業選びをどう変えているのか？就職・転職活動における生成AI利用の実態 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtcS1oVm03UGpLcmJwaFdMN0VDdVd1M1VLaTlYM2N3RUczaGN2UGZWVFJxbzU0d1VnUkNsemtITXJsLTItRTE1UlB1NHZNTlhaUkZFUkswYkY5WnlYeHJqX3ZEM1ZOZWkzaFE?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-07T13:00:02+09:00",
-      "isNew": false,
-      "tags": [
-        "生成AI"
       ],
       "place": null
     },
@@ -1104,32 +1073,6 @@
       "place": null
     },
     {
-      "id": "c44ab75c894c",
-      "type": "event",
-      "title": "ビジネスアーキテクトに必要な「DX戦略立案」「プロジェクトマネジメント」「リーダーシップ」が身につく\"DX推進リーダー育成プログラム『LDP』を開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KSVRXOTJya0QzZ3ZxZFdHTGp5eTUwZE9vV2VOemZoSjJNVFlibnB5U1BDeGphUjFsYjF0NklsOHhfLU4zZlhOcFpYR3hsSHVWUkZ2SFd4NHJBRUxGOTA5T210NlV4M2d5Y2c?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-07T11:30:42+09:00",
-      "isNew": false,
-      "tags": [
-        "DX"
-      ],
-      "place": null
-    },
-    {
-      "id": "c34f8a1c2bb9",
-      "type": "news",
-      "title": "【2026年企業のAI導入・活用に関する調査】AIを組織として導入できている企業は26.8％。AI導入企業の68.0％が、自社でのAI導入・活用は「上手くいっている」と回答 - aismiley.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56YjNqN0dtUXd3NnR2eXJCM19xaVJMbllpUkl1NDVnVDlBQVhoVmJHTFdtenFmeW8zdEswb1ZZZWxkNTFFMXBFYUlFbU9RUzdBenF4Rjh4eWpjc25MVFNvZ0g0Q1d6Zw?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-07T11:15:47+09:00",
-      "isNew": false,
-      "tags": [
-        "AI"
-      ],
-      "place": null
-    },
-    {
       "id": "d892d62ca505",
       "type": "event",
       "title": "【四国銀行 × FunTre 共催】「生成AI比較実践セミナー」を9月10日（木）にオンライン開催 - ニコニコニュース",
@@ -1157,28 +1100,15 @@
       "place": null
     },
     {
-      "id": "0815d2cea0f0",
+      "id": "418967ab66e4",
       "type": "news",
-      "title": "企業向けスライド生成AI「ChatSense」、Notebook上でのスライド生成のPPTX出力をリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOMTVlT0V1RF9TQmVfXzBrc1NpWHVXZ1ZGZUlaaHRmMEt6Wk9abWhfUVZUekg1ODBUcjlRcUduX0lxai1YSWU3WEZVeEpLU1E4SXJZWFNVMjRXcVgwSmZpakhyWUE5SEVyTlE?oc=5",
+      "title": "企業向けスライド生成AI「ChatSense」、Notebook上でのスライド生成のPPTX出力をリリース(2026年8月7日10時29分) - oita-press.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnYlMtcGY4TEUteU4zSW5RNll4aEVIOXpKcUhsMGY4azUxTTg0S0U1c2lyVEFYZWlsSGJyb2hHS1pSSmJWaUdtQ21pLWJwZnRIUlEtNzJWM1FCb0MwXzFqUnJHS1lvRW5MazVKN0x3?oc=5",
       "source": "Google News",
-      "publishedAt": "2026-08-07T10:29:37+09:00",
-      "isNew": false,
+      "publishedAt": "2026-08-07T10:29:00+09:00",
+      "isNew": true,
       "tags": [
         "生成AI"
-      ],
-      "place": null
-    },
-    {
-      "id": "d062ccd43a99",
-      "type": "news",
-      "title": "令和8年度三重大学「DX人材育成プログラム」における「DX経営講座」を実施しました - mie-u.ac.jp",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wbkh5Y0Fnb2ZTemVpNkpHNzhOTEhHcnk4TzlJOVNabkhoZmNkcDU4OHJ4VGFXM0I2MGVPVzJHajhXYWZuajBvRnk2NGNOakRZX2dCMzNTSW0ybEtXSWo0WW5qNEQ0Q01BNVE?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-07T10:21:52+09:00",
-      "isNew": false,
-      "tags": [
-        "DX"
       ],
       "place": null
     },
@@ -1207,17 +1137,6 @@
       "tags": [
         "AI"
       ],
-      "place": null
-    },
-    {
-      "id": "227d9b757963",
-      "type": "event",
-      "title": "生成ＡＩ、被団協など記述 岡山県内で２７年度教科書展示会 - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DS3AtMDZzb05WWHRabDl4dnZrb3hUOGFURFJoTFlyZUM0RE5qUFkxUllqUFU2dlQ2X0E0V0Q1bEl0bTZWYVN6ZDI5S0U5dnJBclBtTWpzYXdGU1k2cHlCaUJYYzR2bE5qSzEtQTM3SVc?oc=5",
-      "source": "Google News",
-      "publishedAt": "2026-08-07T08:25:27+09:00",
-      "isNew": false,
-      "tags": [],
       "place": null
     },
     {
@@ -1277,7 +1196,7 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50eENyQVN3NmFfcnhNdUZjTTFNZnJ4cWtpMHJLRUpEczdGSHNEN0VfcWtaa2ExYzBmeHB3Zl92b0xhRGN1R21uc3dneWl1ek5uVndRYm1vSW5RaVhsUTVEYVA0MjRlTGtadm1R?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-06T23:10:00+09:00",
-      "isNew": true,
+      "isNew": false,
       "tags": [
         "生成AI"
       ],
@@ -1286,13 +1205,94 @@
     {
       "id": "5e53ab5b6e9a",
       "type": "news",
-      "title": "生成AI特許のグローバル動向公開。企業別特許数でソフトバンクが世界首位、全体公開数は前年比約2倍へ急増 - aismiley.co.jp",
+      "title": "生成AI特許のグローバル動向公開。企業別特許数でソフトバンクが世界首位、全体公開数は前年比約2倍へ急増 - AIsmiley",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DRjJqXy10YmQ3Zm1xV0NBMTlwcmtIUHNWTENLQ3M5c0s5UDZNdUYwRlFsdkpBWkNQRUN4a1VfU3FzYUxNNEFhN2VhbzdVaUJmRUdrb1dlbzlYeGg0N0dlVlNmemdWRU0?oc=5",
       "source": "Google News",
       "publishedAt": "2026-08-06T22:09:05+09:00",
       "isNew": false,
       "tags": [
         "生成AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "d7b32a0bb8d9",
+      "type": "news",
+      "title": "GENIACで見えた生成AI導入の共通課題と成功事例導出に向けたヒント - meti.go.jp",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1R4YVlCVUduQmFicVNiUVhDOUhMd1FyRm1taFA2WGZvdXBad1MxUEt0bGZzV2NtTzNDV0huUnp6WXV0VmxXTUFSN1JfYjFDdjZZbEkxT2NaUWJoYW9pTll4anhDUXIyWWZ3Y1V3dWxieEE4QjR6UXIxU0tjNlpsYS14azdEOWpzZnpZWGtZTk4tci12MHlj?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-06T21:10:05+09:00",
+      "isNew": true,
+      "tags": [
+        "生成AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "a99c5dd00e14",
+      "type": "event",
+      "title": "約60講演・50社展示！ナノオプト・メディア“AI Commerce EXPO 2026”“SNS運用戦略Expo 2026” - Dtimes",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KTmIyR0tkYmg1QXlMVnN5TFQxanU3YXpaWmtWR0ZxZnYyMnpMTDVhd0E5SGhLNlR4dGw1TkZUNDBIS3ljUmc?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-06T20:44:03+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "d4088ce180e5",
+      "type": "event",
+      "title": "コマースデザイン ／EC業務を自動化するAIエージェント実践セミナー開催 - pr-free.jp",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBMU5sa2w4Vm1RYjNxTFpPQVEtMjVyNGxFa2U2VTRPRDZYSXl2dERaMDVoS0psZGVYYmE1SklTQ0RLSkE3eXc?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-06T20:08:59+09:00",
+      "isNew": true,
+      "tags": [
+        "AI",
+        "エージェント",
+        "自動化"
+      ],
+      "place": null
+    },
+    {
+      "id": "3e10516b56f7",
+      "type": "news",
+      "title": "キャディ、「製造業AIデータプラットフォームCADDi」を発表",
+      "url": "https://japan.zdnet.com/article/35251376/",
+      "source": "ZDNet Japan",
+      "publishedAt": "2026-08-06T16:56:00+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
+      ],
+      "place": null
+    },
+    {
+      "id": "8a8d0a389f8d",
+      "type": "event",
+      "title": "DX・AIの最新技術が集結する3展同時開催イベントが浜松町で開催 - South65",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOaGVMdk16Qnh0RjFfdG5wcE9NOVF2QzF1c1RudzNycjlDN3dIYjlRWmFCcHduVW16bUpwc3VCeGlnUjN5d3YxNmZaTUxtVEhVLXhTT3RHN1hRcldMMmFQa1Jldnp0NnZaV1o0NFlDcjdzSnFLLWpQTndyMVgyWVlXQlQtdnFEMzJ5V1RwUFFHdlZSamtrR2phYnFLS1FsVXdqM1Y5X1Iya3JfS1RqemtkWTF4bkQ1b1F0b0JOMDlhQkhMNlJNMTNXdG5jcUZTYjhHZzFKazl5dmJQa21iN3J0TzJLdDVYOFZDSTVaLVcxN2w5eFpfclhNdmpJUk80bVhmWEgwdnlZR2NPb19TeDFHTGRZcF9FVTIwMUpLV2RsNFppbnlKN3BNNHhITDBxeEhfWXVJSUZRUk1xUdIBvwJBVV95cUxQRGJmYjVxeTI0UV9Wa1ZORTJnLV8tUVk5aXdZQ3cwVlVsWEU5dndndXhTVHRRUFhqTjhjOXRQS2d2VzBHQmRjaGcxQlNhWWxMSEkyMjhUakFIMHNROWJHX05qcXJmdTY3cGxrNjFWVmtSUk14dVhxYmR3RGpOdFBHOEJBazRnRFFadEtyc2pWWkVvSmpXenU4NEVzczlMUFFaUXJ1Mm8zNG90VHRWaXhpdmlyQzcxMlhWNk9CUW1aTHhhV0lucTNjUlU5TUwwUV9ibDFvaTFTRHZUbE42a1VOV2lHS2R0djcyOTN5dm5XR2FWS2s2Y3oxOXhSVWJha3lRZUlETkJaWFdTbTJpMmxONHZWbGpYUjc3MWEweHJlNnZ2RTZhMDJ2MlBkUTB4M0FFZmJtaVMwZWdoMHU0QVE0?oc=5",
+      "source": "Google News",
+      "publishedAt": "2026-08-06T16:54:39+09:00",
+      "isNew": true,
+      "tags": [
+        "AI",
+        "DX"
+      ],
+      "place": null
+    },
+    {
+      "id": "5ccce0b72138",
+      "type": "news",
+      "title": "パナソニック、AI・クラウド型ドアホンにオブザーバビリティ機能を実装",
+      "url": "https://japan.zdnet.com/article/35251372/",
+      "source": "ZDNet Japan",
+      "publishedAt": "2026-08-06T16:19:00+09:00",
+      "isNew": true,
+      "tags": [
+        "AI"
       ],
       "place": null
     }
